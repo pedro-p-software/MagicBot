@@ -1,0 +1,111 @@
+OUTREACH REPORT 2026
+MAGIC ISLAND ROBOTICS (FRC 5800)
+
+SUMÁRIO
+01 - Quem somos
+03 - Apoios
+04 - Editais
+06 - Parceria com a Prefeitura
+09 - Torneios
+12 - Criação de equipes
+15 - Bridge for Girls
+16 - Processo seletivo
+18 - Unidades de Aprendizagem
+19 - Workshops
+21 - Eventos
+
+QUEM SOMOS: MAGIC ISLAND ROBOTICS
+A Magic Island Robotics (FRC 5800) é uma equipe de robótica educacional formada por estudantes do ensino médio técnico do Instituto Federal de Santa Catarina (IFSC), campus Florianópolis.
+Fundada em 2015, é a primeira equipe de Santa Catarina a competir na FIRST® Robotics Competition. Em mais de uma década de história a equipe já conquistou +10 prêmios em competição, sendo Campeões de Arena na Regional Brasília em 2025.
+Hoje, dedicamos nossos esforços para garantir que, percorrer trajetórias como essa seja, um direito para equipes de escolas públicas.
+FROM A PUBLIC SCHOOL, FOR PUBLIC SCHOOLS.
+
+NOSSA MISSÃO:
+Promover a robótica como política de educação, celebrada como esporte e reconhecida como direito aos jovens de escolas públicas brasileiras.
+
+DADOS DEMOGRÁFICOS:
+- 38 Membros atualmente
+- Renda Familiar: 48% Inferior a 2 salários mínimos, 52% Superior a 2 salários mínimos.
+- Escolaridade Ensino Fundamental: 67% Estudaram em escola pública, 33% Estudaram em escola privada.
+
+NOSSOS APOIADORES:
+Instituto Federal Santa Catarina, FEESC, 3M, Baumann, Rockwell Automation, Aurora Coop, Qualcomm.
+
+EDITAIS EDUCACIONAIS:
+- +10 Projetos aprovados
+- 130K Em bolsas para alunos
+
+HOSPITAL INFANTIL:
+Robótica LEGO para crianças em tratamento hospitalar. Aplicação da robótica como ferramenta educativa e terapêutica.
+- 12 Voluntários treinados
+- 5 Meses de oficinas
+- 2mil crianças impactadas
+- 2° Ano de projeto
+
+EDITAIS:
+SONDA AQUÁTICA: Em parceria com uma escola municipal, desenvolvemos uma sonda aquática. Ensinamos os alunos a usar componentes eletrônicos, implementamos o Processo de Design de Engenharia.
+TURRET: Concepção e construção de um robô com sistema de disparo e controle. Integração entre mecânica, elétrica e programação.
+MUNDO DA ROBÓTICA: O "Mundo da Robótica" é uma plataforma online que oferece recursos publicados para apoiar professores de escolas públicas.
+
+PARCERIA COM A PREFEITURA:
+Nossos esforços para defender a robótica em instituições públicas nos colocaram em contato com um vereador, que se interessou por nossas iniciativas! Ele nos ajudou a criar um projeto de lei aprovado pelo governo municipal - a Lei Municipal da Semana da Robótica 10.590/2019, que dedica uma semana inteira por ano a atividades de robótica nas escolas.
+SEMANA MUNICIPAL DE ROBÓTICA:
+Em 2025: 13 Escolas visitadas em uma semana, +380 Crianças atingidas, +39 Voluntários da Robótica.
+Capacitação de professores: 82 Professores Treinados, +20k alunos de escolas municipais impactados, 24 horas de treinamento.
+
+TORNEIOS DE ROBÓTICA:
+Em 2024 e 2025 a equipe desenvolveu torneios de robótica inspirados na FIRST Lego League (FLL). A partir do uso de Kits de Lego os participantes desenvolveram conhecimentos em engenharia, programação e estratégia.
+- 31 Kits de desafio distribuidos no total
+- +350 crianças/jovens competindo
+- 9 Torneios feitos
+- +15 cidades participantes
+- 3 torneios replicados por competidores
+
+CULTURE CONQUEST (2024):
+O desafio tinha como tema as diferentes atividades econômicas no estado de Santa Catarina. Os alunos eram avaliados para além do jogo, mas também em espírito de equipe, melhor design de robô, estratégia, etc.
+- 17 Kits de desafio distribuidos
+- 217 crianças/jovens competindo
+
+R3VOLUTION (2025):
+O segundo desafio foi inspirado na regra dos 3R's e também na comunidade do Maciço do Morro da Cruz que fica bem atrás do nosso campus. Estavam presentes no tapete referências da cidade e as tarefas eram interligadas com sustentabilidade.
+- 14 Kits de desafio distribuidos
+- 133 crianças/jovens competindo
+- Feira de Inovação no IFSC: 6 projetos de STEAM presentes, +200 visitantes no evento.
+
+CRIAÇÃO DE EQUIPES:
+- 7 Equipes criadas em todos os programas.
+- IFRC: A partir do sonho de não sermos mais a única equipe FRC do Instituto Federal, modelamos e aplicamos um projeto que ajudava outros campi a participarem da competição. 2 equipes criadas em IFs, +30 equipes contactadas no mundial, R$350k arrecadados em peças doadas, 32 horas de mentoria.
+- IFTC: Para espalhar STEM e robótica aos estudantes da esfera pública de 14 a 18 anos, criamos equipes na categoria FIRST Tech Challenge a partir de editais. 1 FTC criada em escola pública.
+- IFL (FLL): Para espalhar STEM e robótica aos estudantes da esfera pública de 6 a 15 anos, criamos equipes na categoria FIRST Lego League. 6 FLLs criadas em instituições públicas.
+
+BRIDGE FOR GIRLS:
+Criamos um mês de workshops semanais sobre programação, engenharia e atividades de mídia liderados por nossas integrantes, que fizeram um livro para compartilhar suas histórias dentro da equipe.
+- 3 anos de projeto
+- +60 Meninas participantes
+- 21 Entraram na equipe
+- Em 2023: 25% da equipe composto por meninas
+- Atualmente: 54% da equipe composto por meninas
+
+PROCESSO SELETIVO:
+- 80 Inscritos em média por ano
+- Simulação de alianças: Dividimos os inscritos em Red Alliance e Blue Alliance para simular uma Build Season. Nos últimos processos seletivos, o número de inscritos foi tão grande que criamos a Green Alliance.
+- Projeto de robô: Apresentamos nosso próprio jogo às alianças no início do desafio. Os inscritos devem elaborar uma estratégia e projetar um robô fictício.
+- Apresentação de Impact: Cada aliança deve bolar seu storytelling e suas próprias ações sociais fictícias para apresentar à nossa equipe.
+
+UNIDADES DE APRENDIZAGEM:
+- 58 UAs desenvolvidas
+
+WORKSHOPS & TREINAMENTOS:
+A FRC5800 tem desenvolvido capacitações e apresentado workshops desde 2019. Nos últimos anos muito do nosso trabalho tem sido em disseminar o que conhecemos de STEAM para outras equipes, construindo uma comunidade forte e preparada para as competições!
+- 2 imersões SESI SC
+- 3 meses de treinamento no FRC SC
+- 4 Workshops em parceria com a GC4 Tomorrow
+- Magic Alliance: Com o objetivo de compartilhar tudo o que sabemos com equipes em todo o país, criamos um programa de mentoria contínua online, o Magic Alliance. Os alunos preparam as reuniões online para garantir que todas as chamadas se concentrem em responder às perguntas das equipes, com base em nossas próprias experiências. 6 equipes capacitadas, 8 chamadas feitas.
+
+EVENTOS:
+Participação em Eventos
+- +20mil pessoas alcançadas
+- 1100 quilômetros rodados
+- Rio Innovation Week: A única Equipe FIRST a se apresentar na Rio Innovation Week de 2023. (155k audiencia alcançada, 15h de evento, +200 startups)
+- Liga de robótica dos IFs: Palestramos na primeira edição da liga de robótica dos Institutos Federais em Barreirinhas - MA (32 professores de robótica da região norte e nordeste)
+- 4ª Semana Nacional da EPT: Um evento em Brasília onde apresentamos nossos robôs e projetos à Secretaria de Educação do Brasil. (Ministro da educação agora discute projetos conosco, 5,4k visitantes)
