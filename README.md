@@ -2,7 +2,7 @@
 
 ## Português (Brasil)
 
-MagicBot é um assistente do Telegram baseado em fontes para a Magic Island Robotics (FRC 5800). Ele responde usando os documentos em `data/` e um modelo local servido pelo LM Studio.
+MagicBot é um bot do telegram que analisa fontes da Magic Island Robotics (FRC 5800). Ele responde usando os documentos em `data/` usando um modelo local servido pelo LM Studio.
 
 ### O que ele faz
 
@@ -41,7 +41,7 @@ O bot propositalmente **não** usa conhecimento geral para responder perguntas s
 
 O modelo de embeddings é baixado na primeira execução. O índice de busca gerado é salvo em `storage/` e recriado automaticamente quando algum documento-fonte é alterado.
 
-### Como os membros usam
+### Como interagir
 
 - Conversa privada: envie uma pergunta normalmente.
 - Grupo: use `/ask sua pergunta` ou marque o bot.
@@ -52,7 +52,8 @@ O modelo de embeddings é baixado na primeira execução. O índice de busca ger
 
 ### Mantendo as respostas corretas
 
-`data/knowledge_base.txt` contém o relatório de outreach. `data/team/` serve para as informações atualizadas da equipe. Preencha os três arquivos iniciais antes de compartilhar o bot com os membros:
+`data/knowledge_base.txt` contém o relatório de outreach. `data/team/` serve para as informações atualizadas da equipe.
+Ainda a serem preenchidos: 
 
 - `calendar.md` — datas, horários, locais e calendário oficial.
 - `quick_links.md` — recursos oficiais aprovados.
@@ -60,7 +61,7 @@ O modelo de embeddings é baixado na primeira execução. O índice de busca ger
 
 Adicione arquivos Markdown separados para cada assunto, por exemplo `data/team/safety.md`, `data/team/programming.md` ou `data/team/faq.md`. Comece cada um com `Updated: AAAA-MM-DD`. Não coloque informações confidenciais em `data/`: o bot pode citá-las em qualquer chat ao qual tenha acesso.
 
-Quando uma informação mudar, atualize o arquivo correspondente, revise-o com a liderança responsável e reinicie o bot caso ele já esteja em execução. Na próxima inicialização, o índice de busca será recriado.
+Quando uma informação mudar, atualize o arquivo correspondente, revise-o com o responsável e reinicie o bot caso ele já esteja em execução. Na próxima inicialização, o índice de busca será recriado.
 
 ### Mapa do projeto
 
